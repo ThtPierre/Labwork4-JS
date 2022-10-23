@@ -1,0 +1,38 @@
+body{
+    background-color: #626060;
+}
+
+.container{
+    width: 70%;
+    background-color: rgb(0, 60, 255);
+    margin: auto auto;
+    border-radius: 30px;
+
+}
+
+h2
+{
+    
+    text-align: center;
+}
+
+section{
+    width: 65%;
+    background-color: rgb(0, 153, 255);
+    border-radius: 30px;
+    margin: 20px auto;
+}
+
+.container, section{
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.go{
+    text-align: center;
+}
+
+.go a{
+    text-decoration: none;
+    color: white;
+}
